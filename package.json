@@ -4,6 +4,7 @@
   "description": "Azure Functions Project Structure.",
   "scripts": {
     "test": "zoroaster test/spec",
+    "doc": "doc documentary -o README.md",
     "test-watch": "zoroaster test/spec --watch",
     "prepublishOnly": "node scripts/prepublishOnly",
     "postinstall": "node scripts/postinstall",
@@ -33,6 +34,7 @@
   "homepage": "https://github.com/mnpjs/azure#readme",
   "devDependencies": {
     "alamode": "1.6.1",
+    "documentary": "1.20.1",
     "eslint-config-artdeco": "1.0.0"
   },
   "dependencies": {}

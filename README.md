@@ -2,11 +2,33 @@
 
 Azure Functions Project Structure.
 
-[Read more about `mnp`][2].
+```m
+structure
+├── README.md
+├── documentary
+│   ├── 1-mnp.md
+│   ├── footer.md
+│   └── index.md
+├── host.json
+├── local.settings.json
+├── mnp
+│   ├── function.json
+│   ├── index.js
+│   └── sample.dat
+├── package.json
+├── proxies.json
+├── src
+│   └── mnp
+│       ├── function.json
+│       ├── index.js
+│       └── sample.dat
+└── yarn.lock
+```
 
----
 
-(c) [Art Deco Code Limited][1] 2018
+
+## Copyright
+
+(c) [MNP][1] 2018
 
 [1]: https://mnpjs.org
-[2]: https://mnpjs.org
