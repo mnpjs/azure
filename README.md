@@ -1,5 +1,7 @@
 # @mnpjs/azure
 
+[![npm version](https://badge.fury.io/js/%40mnpjs%2Fazure.svg)](https://npmjs.org/package/@mnpjs/azure)
+
 Azure Functions Project Structure.
 
 ```m
