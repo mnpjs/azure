@@ -1,0 +1,38 @@
+{
+  "name": "@mnpjs/azure",
+  "version": "1.0.0",
+  "description": "Azure Functions Project Structure.",
+  "scripts": {
+    "test": "zoroaster test/spec",
+    "test-watch": "zoroaster test/spec --watch",
+    "prepublishOnly": "node scripts/prepublishOnly",
+    "postinstall": "node scripts/postinstall",
+    "postpublish": "node scripts/postpublish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mnpjs/azure.git"
+  },
+  "mnp": {
+    "onCreate": "scripts/mkdir.js"
+  },
+  "files": [
+    "index.js",
+    "structure",
+    "scripts"
+  ],
+  "keywords": [
+    "azure",
+    "mnpjs"
+  ],
+  "author": "Anton <anton@adc.sh>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnpjs/azure/issues"
+  },
+  "homepage": "https://github.com/mnpjs/azure#readme",
+  "devDependencies": {
+    "eslint-config-artdeco": "1.0.0"
+  },
+  "dependencies": {}
+}
