@@ -7,6 +7,7 @@
 <p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/0.svg?sanitize=true"></a></p>
 
 - [`/mnp`](#mnp)
+- [Copyright](#copyright)
 
 <p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/1.svg?sanitize=true"></a></p>
 
@@ -16,3 +17,10 @@ The mnp function will receive the input and respond with the output.
 
 <p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/2.svg?sanitize=true"></a></p>
 
+## Copyright
+
+(c) [{{ trademark }}][1] {{ year }}
+
+[1]: {{ website }}
+
+<p align="center"><a href="#table-of-contents"><img src=".documentary/section-breaks/-1.svg?sanitize=true"></a></p>
