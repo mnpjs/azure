@@ -1,6 +1,6 @@
 {
   "name": "@mnpjs/azure",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Azure Functions Project Structure.",
   "scripts": {
     "test": "zoroaster test/spec",
