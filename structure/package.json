@@ -4,7 +4,8 @@
   "description": "{{ description }}",
   "main": "index.js",
   "scripts": {
-    "build": "alamode src/mnp -o mnp -s"
+    "build": "alamode src/mnp -o mnp -s",
+    "doc": "doc documentary -o README.md"
   },
   "repository": "{{ git_url }}",
   "author": "{{ author_name }} <{{ author_email }}>",
