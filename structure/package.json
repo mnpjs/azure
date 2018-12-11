@@ -1,0 +1,15 @@
+{
+  "name": "my-new-package",
+  "version": "0.0.0",
+  "description": "{{ description }}",
+  "main": "index.js",
+  "scripts": {
+    "build": "alamode src/mnp -o mnp -s"
+  },
+  "repository": "{{ git_url }}",
+  "author": "{{ author_name }} <{{ author_email }}>",
+  "license": "MIT",
+  "devDependencies": {
+    "alamode": "1.6.1"
+  }
+}

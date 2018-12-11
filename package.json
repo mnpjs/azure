@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/mnpjs/azure#readme",
   "devDependencies": {
+    "alamode": "1.6.1",
     "eslint-config-artdeco": "1.0.0"
   },
   "dependencies": {}
