@@ -16,14 +16,9 @@ structure
 ├── mnp
 │   ├── function.json
 │   ├── index.js
-│   └── sample.dat
+│   └── mnp.js
 ├── package.json
 ├── proxies.json
-├── src
-│   └── mnp
-│       ├── function.json
-│       ├── index.js
-│       └── sample.dat
 └── yarn.lock
 ```
 
